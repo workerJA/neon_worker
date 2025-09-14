@@ -1,0 +1,10 @@
+{
+  "max_workers": 4,
+  "queue_size": 70,
+  "shutdown_timeout": 30.0,
+  "log_level": "INFO",
+  "retry_attempts": 3,
+  "retry_delay": 1.0,
+  "health_check_interval": 10.0,
+  "enable_metrics": true
+}

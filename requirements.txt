@@ -1,0 +1,7 @@
+# No external dependencies required - uses only Python standard library
+# This ensures maximum compatibility and minimal dependency management issues
+
+# For development and testing (optional)
+# pytest>=6.0.0
+# black>=21.0.0
+# mypy>=0.800
